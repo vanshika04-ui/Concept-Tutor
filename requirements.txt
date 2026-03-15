@@ -1,3 +1,8 @@
 fastapi
 uvicorn
 groq
+sentence-transformers
+chromadb
+pypdf
+python-multipart
+numpy
